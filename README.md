@@ -47,7 +47,7 @@ A Burp Suite extension for hunting access-control bypasses on `401`/`403` protec
 
 ## Disclaimer
 
-This tool is intended for authorized security testing and CTF use only. Only run it against targets you own or have explicit permission to test.
+This tool is intended for authorized security testing use only. Only run it against targets you own or have explicit permission to test.
 
 ## License
 
